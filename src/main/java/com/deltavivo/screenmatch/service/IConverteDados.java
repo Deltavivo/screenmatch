@@ -1,4 +1,4 @@
-package br.com.alura.screenmatch.service;
+package com.deltavivo.screenmatch.service;
 
 public interface IConverteDados {
     <T> T  obterDados(String json, Class<T> classe);

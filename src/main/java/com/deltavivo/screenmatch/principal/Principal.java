@@ -1,14 +1,12 @@
-package br.com.alura.screenmatch.principal;
+package com.deltavivo.screenmatch.principal;
 
-import br.com.alura.screenmatch.model.DadosEpisodio;
-import br.com.alura.screenmatch.model.DadosSerie;
-import br.com.alura.screenmatch.model.DadosTemporada;
-import br.com.alura.screenmatch.model.Episodio;
-import br.com.alura.screenmatch.service.ConsumoApi;
-import br.com.alura.screenmatch.service.ConverteDados;
+import com.deltavivo.screenmatch.model.DadosEpisodio;
+import com.deltavivo.screenmatch.model.DadosSerie;
+import com.deltavivo.screenmatch.model.DadosTemporada;
+import com.deltavivo.screenmatch.model.Episodio;
+import com.deltavivo.screenmatch.service.ConsumoApi;
+import com.deltavivo.screenmatch.service.ConverteDados;
 
-import java.time.LocalDate;
-import java.time.format.DateTimeFormatter;
 import java.util.*;
 import java.util.stream.Collectors;
 

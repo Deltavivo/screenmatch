@@ -1,6 +1,6 @@
-package br.com.alura.screenmatch;
+package com.deltavivo.screenmatch;
 
-import br.com.alura.screenmatch.principal.Principal;
+import com.deltavivo.screenmatch.principal.Principal;
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
